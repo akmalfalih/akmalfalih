@@ -2,7 +2,7 @@
 My name is Muhammad Akmal Falih Rizqullah, you can call me Akmal. I am a student at Telkom University and my major is Electrical Engineering.
 Currently, I'm interested in Programming and Web development 😄. Also, I'm a practicum assistant at Daskom Laboratory.
 
----
+
 ## Connect with me:
 1. Instagram: [@akmal_falih](https://instagram.com/akmal_falih/)
 2. Email: muhammadakmal230@gmail.com
