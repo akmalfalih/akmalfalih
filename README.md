@@ -6,7 +6,7 @@ Currently, I'm interested in Programming and Web development 😄. Also, I'm a p
 ## Connect with me:
 1. Instagram: [@akmal_falih](https://instagram.com/akmal_falih/)
 2. Email: muhammadakmal230@gmail.com
-3. Linkedin: [Muhammad Akmal Falih Rizqullah](https://id.linkedin.com/in/muhammad-akmal-falih-rizqullah-a541b21b9)
+3. Linkedin: [Muhammad Akmal Falih Rizqullah](https://www.linkedin.com/in/muhammadakmalfalihrizqullah/)
 <!--
 **akmalfalih/akmalfalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
